@@ -1,7 +1,7 @@
 # Contax
 A fully-featured mobile application to store contacts within your network and linking to various third-party social networks
 
-![Design]([https://imgur.com/a/7kdDHwY](https://imgur.com/b2EZcie))  
+![Design](https://i.imgur.com/b2EZcie.png)  
 
 ## Core Features:
 * Login auth with Google or Apple
